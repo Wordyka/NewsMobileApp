@@ -16,6 +16,8 @@ This repository contains the code for a News Application for Android. The app di
 - Android Studio
 - Minimum SDK version 26
 - Target SDK version 34
+- Gradle version 8.6
+- JDK version 17
 
 ### Installation
 
